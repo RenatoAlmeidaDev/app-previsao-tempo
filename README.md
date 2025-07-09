@@ -24,7 +24,7 @@ Este é um aplicativo simples e responsivo de **Previsão do Tempo**, criado com
 - **HTML5** – estrutura do app
 - **CSS3** – estilização moderna e responsiva
 - **JavaScript** – lógica de busca e manipulação do DOM
-- **API pública de clima** [OpenWeatherMap] (https://openweathermap.org/api)
+- **API pública de clima** (https://openweathermap.org/api)
 
 ## 📦 Como usar
 
